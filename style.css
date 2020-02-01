@@ -1,0 +1,26 @@
+body {
+  font-family: Inconsolata, "Helvetica Neue", helvetica, sans-serif;
+  margin: 3em;
+  max-width: 600px;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+h1 { 
+  color: #F06292;
+}
+
+hr {
+  width: 100px;
+  height: 6px;
+  background: #F06292;
+  border: none;
+  box-shadow: none;
+}
+
+code {
+  font-size: 16px;
+}

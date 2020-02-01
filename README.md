@@ -29,7 +29,7 @@ _________________________
     
     Guide: Gorthi R.K.S.S. Manyam -- Apr 2016
 
-* Site Suitability Analysis for Solar PV Power Plant in the northeastern Districts of Karnataka State [Report](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project.pdf) [Presentation]([Report](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project_presentation.pdf))
+* Site Suitability Analysis for Solar PV Power Plant in the northeastern Districts of Karnataka State [Report](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project.pdf) [Presentation](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project_presentation.pdf)
   
     Final Year Project - Indian Institute of Space Science and Technology, Trivandrum, India
     
