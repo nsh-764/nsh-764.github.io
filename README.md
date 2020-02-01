@@ -2,7 +2,7 @@
 
 Spatial Data Science | GIS & Remote Sensing | Machine Learning | Space Sciences
 
-[GMail](mailto:nikhil.hubballi@gmail.com) | [LinkedIn](https://in.linkedin.com/in/nikhilhubballi) | [Resume](https://nsh-764.github.io/Docs/CV_Nikhil_S_Hubballi_Jan_2020.pdf) | [Github](gihub.com/nsh-764)
+[GMail](mailto:nikhil.hubballi@gmail.com) | [LinkedIn](https://in.linkedin.com/in/nikhilhubballi) | [Resume](https://nsh-764.github.io/Docs/CV_Nikhil_S_Hubballi_Jan_2020.pdf) | [Github](https://www.github.com/nsh-764)
 
 _________________________
 
