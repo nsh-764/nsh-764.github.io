@@ -21,16 +21,20 @@ ___________________________________________________________________________
 * Grid API demo for Gurgaon [carto-ui](https://dev-gis.socialcops.com/user/statlas-user-hul/builder/c235068a-ae01-441b-9378-d1c7024c6241/embed)
   
 
-* Insight-packs catalogue that I handled or was part of [catalogue](https://grid.atlan.com/search/Global)
+* Insight-packs catalogue that I handled or was part of [catalogue](https://grid.atlan.com/search/Global) 
 
     (Examples: Demography - population count for villages in 2019, [High Rise Buildings](https://grid.atlan.com/insights/high-rise-buildings/), Nightlights, [Lit Roads](https://grid.atlan.com/insights/lit-roads/), Demography - Age gender profile, Railway Insights, Road Network, [Rural Sentiment Index](https://grid.atlan.com/insights/rural-sentiment-index/), [Temperature](https://grid.atlan.com/insights/temperature-insights/) and [Rainfall](https://grid.atlan.com/insights/rainfall-insights/) Insights)
 
-* A internal cloud data access tool called [cloudDS](https://nsh-764.github.io/works/cloud_m.html) that was build on Apache Libcloud and awscli.
+    What are insight-packs? [Case studies](https://drive.google.com/open?id=0Bw2onH2foCdMTjMzMXdGM2loN19TNTFFNFJDbGtMZUdvQnJv)
+
+    How are insight-packs built? [Affluence index at building level](https://drive.google.com/open?id=0Bw2onH2foCdMN2duMkQxY3Utc2xmU0J4Q0JOaEllQjFmTk1R)
+
+* A internal cloud data access tool called [cloudDS](https://nsh-764.github.io/works/cloud_m.html) that was built on Apache Libcloud and awscli.
 
 
 #### Other projects
 
-* [GeoPackagePy](https://github.com/nsh-764/GeoPackage-py) - a python wrapped module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
+* [GeoPackagePy](https://github.com/nsh-764/GeoPackage-py) - a python wrapper module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
 
 * [ns3](https://github.com/nsh-764/ns3) - Nested S3 - Display the objects on S3 bucket path in a tree-like diagram, It uses the tree command to display the objects in an s3 bucketpath in a tree-like diagram.
 
@@ -46,17 +50,21 @@ ___________________________________________________________________________
 
 * Tracking accuracy of 3.6m Telescope at Devasthal and Temperature & Optical depth map of star forming molecular clouds using Planck Satellite Data. [TempPlot_vFinal](https://github.com/nsh-764/TempPlot_vFinal)
 
+    [Report](https://github.com/nsh-764/TempPlot_vFinal/blob/master/Docs/final_report.pdf) | [Presentation](https://github.com/nsh-764/TempPlot_vFinal/blob/master/Docs/presentation.pdf)
+    
     Summer internship project at Aryabhatta Research Institute of Observational Sciences, Nainital, India 
     
     Guide: Dr. Maheswar Gopinathan -- June, July 2016
 
 * Minutiae-based Fingerprint Matching [MinutiaeFingerprintMatch](https://github.com/nsh-764/MinutiaeFingerprintMatch)
+  
+   [Report](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Report.pdf) | [Presentation](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Final%20Presentation.pdf) | [Results - Test set](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Results%20on%20Testset.pdf)
 
     Academic Project, Indian Institute of Space Science and Technology, Trivandrum, India
     
     Guide: Gorthi R.K.S.S. Manyam -- Apr 2016
 
-* Site Suitability Analysis for Solar PV Power Plant in the northeastern Districts of Karnataka State [Report](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project.pdf) [Presentation](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project_presentation.pdf)
+* Site Suitability Analysis for Solar PV Power Plant in the northeastern Districts of Karnataka State [Report](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project.pdf) | [Presentation](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project_presentation.pdf)
   
     Final Year Project - Indian Institute of Space Science and Technology, Trivandrum, India
     
