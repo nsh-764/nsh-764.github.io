@@ -30,6 +30,7 @@ How are insight-packs built? [Affluence index at building level](https://drive.g
 
 * I also built an internal cloud data access tool called [cloudDS](https://nsh-764.github.io/works/cloud_m.html) that was built on Apache Libcloud and awscli.
 
+
 **Demo of insight-pack outputs for Bangalore and Gurgaon**
 
 * Urban Data Demo for Bangalore [carto-ui](https://dev-gis.socialcops.com/user/statlas-user-hul/builder/0d71a337-4bae-4604-9cbc-972473f37434/embed)
@@ -38,7 +39,7 @@ How are insight-packs built? [Affluence index at building level](https://drive.g
 
 * Grid API demo for Gurgaon [carto-ui](https://dev-gis.socialcops.com/user/statlas-user-hul/builder/c235068a-ae01-441b-9378-d1c7024c6241/embed)
 
-
+___________________________________________________________________________
 #### Other personal projects
 
 * [GeoPackagePy](https://github.com/nsh-764/GeoPackage-py) - a python wrapper module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
