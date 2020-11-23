@@ -10,7 +10,10 @@ Output Data: GeoTiff files with bands `velocity_u_0`, `velocity_v_0`, `speed_0` 
 The visualization of the data is done on the Jupyter Notebook using geemap module available for python.
 
 ![Raw Data Map](raw_data_map.png)
+Raw Data Map
 
 ![Ocean Current Direction](ocean_current_Direction.png)
+Ocean Current Direction
 
 ![Ocean Current Speed](ocean_current_speed.png)
+Ocean Current Speed
