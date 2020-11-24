@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3006" } },
+"features": [
+{ "type": "Feature", "properties": { "index": 0, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 614.0, 458.0 ], [ 620.0, 227.0 ], [ 639.0, 226.0 ], [ 639.0, 457.0 ], [ 614.0, 458.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 1, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 597.0, 331.0 ], [ 512.0, 329.0 ], [ 516.0, 169.0 ], [ 601.0, 171.0 ], [ 597.0, 331.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 2, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 522.0, 453.0 ], [ 522.0, 350.0 ], [ 591.0, 350.0 ], [ 591.0, 382.0 ], [ 579.0, 385.0 ], [ 580.0, 452.0 ], [ 522.0, 453.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 3, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 498.0, 350.0 ], [ 418.0, 348.0 ], [ 418.0, 282.0 ], [ 410.0, 280.0 ], [ 410.0, 253.0 ], [ 399.0, 246.0 ], [ 401.0, 187.0 ], [ 495.0, 189.0 ], [ 498.0, 350.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 4, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 342.0, 466.0 ], [ 343.0, 357.0 ], [ 483.0, 358.0 ], [ 483.0, 464.0 ], [ 431.0, 465.0 ], [ 429.0, 438.0 ], [ 427.0, 465.0 ], [ 342.0, 466.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 5, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 284.0, 340.0 ], [ 285.0, 299.0 ], [ 294.0, 297.0 ], [ 294.0, 246.0 ], [ 386.0, 246.0 ], [ 385.0, 340.0 ], [ 284.0, 340.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 6, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 314.0, 231.0 ], [ 315.0, 184.0 ], [ 378.0, 186.0 ], [ 377.0, 232.0 ], [ 314.0, 231.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 7, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 264.0, 476.0 ], [ 265.0, 379.0 ], [ 317.0, 379.0 ], [ 317.0, 476.0 ], [ 264.0, 476.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 8, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 237.0, 10.0 ], [ 237.0, 1.0 ], [ 301.0, 1.0 ], [ 300.0, 11.0 ], [ 237.0, 10.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 9, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 271.0, 326.0 ], [ 196.0, 324.0 ], [ 200.0, 183.0 ], [ 274.0, 184.0 ], [ 271.0, 326.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 10, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 238.0, 468.0 ], [ 118.0, 465.0 ], [ 121.0, 364.0 ], [ 241.0, 368.0 ], [ 238.0, 468.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 11, "gclass": "building" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 101.0, 333.0 ], [ 101.0, 195.0 ], [ 168.0, 193.0 ], [ 170.0, 332.0 ], [ 101.0, 333.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 12, "gclass": "road" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 32.0, 500.0 ], [ 0.0, 326.0 ], [ 0.0, 74.0 ], [ 29.0, 74.0 ], [ 34.0, 100.0 ], [ 639.0, 130.0 ], [ 639.0, 169.0 ], [ 38.0, 138.0 ], [ 36.0, 140.0 ], [ 42.0, 224.0 ], [ 74.0, 412.0 ], [ 92.0, 500.0 ], [ 32.0, 500.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 13, "gclass": "road" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 639.0, 73.0 ], [ 29.0, 64.0 ], [ 29.0, 72.0 ], [ 0.0, 71.0 ], [ 0.0, 1.0 ], [ 17.0, 1.0 ], [ 18.0, 5.0 ], [ 9.0, 5.0 ], [ 4.0, 10.0 ], [ 4.0, 17.0 ], [ 8.0, 22.0 ], [ 17.0, 23.0 ], [ 21.0, 20.0 ], [ 23.0, 25.0 ], [ 639.0, 35.0 ], [ 639.0, 73.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 14, "gclass": "road" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 53.0, 12.0 ], [ 53.0, 11.0 ], [ 54.0, 10.0 ], [ 54.0, 11.0 ], [ 53.0, 12.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 15, "gclass": "road" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.0, 13.0 ], [ 31.0, 10.0 ], [ 33.0, 8.0 ], [ 35.0, 8.0 ], [ 37.0, 10.0 ], [ 37.0, 13.0 ], [ 35.0, 15.0 ], [ 33.0, 15.0 ], [ 31.0, 13.0 ] ] ] } },
+{ "type": "Feature", "properties": { "index": 16, "gclass": "road" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0, 459.0 ], [ 1.0, 460.0 ], [ 1.0, 464.0 ], [ 2.0, 465.0 ], [ 2.0, 470.0 ], [ 3.0, 471.0 ], [ 3.0, 475.0 ], [ 4.0, 476.0 ], [ 4.0, 481.0 ], [ 5.0, 482.0 ], [ 5.0, 487.0 ], [ 6.0, 488.0 ], [ 6.0, 492.0 ], [ 7.0, 493.0 ], [ 7.0, 498.0 ], [ 8.0, 499.0 ], [ 8.0, 500.0 ], [ 0.0, 500.0 ], [ 0.0, 459.0 ] ] ] } }
+]
+}
