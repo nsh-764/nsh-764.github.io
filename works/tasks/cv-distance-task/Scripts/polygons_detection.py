@@ -7,7 +7,7 @@ version              : 1.1
 verified by          :
 verified on          :
 description          : Detection of Road and Building Polygons from images.
-project              : CV Task - Kawa Space
+project              : CV Distance Task
 working directory(s) : 
 remarks              :
 """
