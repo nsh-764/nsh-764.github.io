@@ -18,11 +18,10 @@ this case will be from AB to the road and not the other building.
 In some cases the anchor point might not be within the bound of a building, in which
 case, it would be the distance from the anchor point instead of the line segment.
 
-### Method 
-
-
-
 ### Running Code
+
+Modules used are found in the `requirements.txt`. Run with `pip install -r requirements.txt` to set up the 
+environment.
 
 Run the `polygons_detection.py` file first with inputs to get the roads and building polygons identified and
 exported into a geojson file for each image.
@@ -59,3 +58,5 @@ geoms_tmp_9.geojson, 19.656, "Road"
 ```
 Output Map from Matplotlib
 ![Output](output.png)
+
+Check all outputs [here](Data/clean/outputs.md)
