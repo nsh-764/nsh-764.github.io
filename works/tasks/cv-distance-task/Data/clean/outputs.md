@@ -1,4 +1,4 @@
-## Output
+# Output
 
 ```bash
 Namespace(filepath='./Data/wip/geoms_tmp_1.geojson')
@@ -10,6 +10,7 @@ Distance to the closest road from the front side: 35.159 units
 
 geoms_tmp_1.geojson, 35.159 units, "Road"
 ```
+
 ![Output](tmp_1_output.png)
 
 ```bash
@@ -22,6 +23,7 @@ Distance to the closest road from the front side: 89.93 units
 
 geoms_tmp_2.geojson, 14.0 units, "Building"
 ```
+
 ![Output](tmp_2_output.png)
 
 ```bash
@@ -34,8 +36,8 @@ Distance to the closest road from the front side: 117.082 units
 
 geoms_tmp_3.geojson, 32.542 units, "Building"
 ```
-![Output](tmp_3_output.png)
 
+![Output](tmp_3_output.png)
 
 ```bash
 Namespace(filepath='./Data/wip/geoms_tmp_4.geojson')
@@ -47,6 +49,7 @@ Distance to the closest road from the front side: 12.042 units
 
 geoms_tmp_4.geojson, 7.071 units, "Building"
 ```
+
 ![Output](tmp_4_output.png)
 
 ```bash
@@ -59,6 +62,7 @@ Distance to the closest road from the front side: 126.857 units
 
 geoms_tmp_5.geojson, 126.857 units, "Road"
 ```
+
 ![Output](tmp_5_output.png)
 
 ```bash
@@ -71,6 +75,7 @@ Distance to the closest road from the anchor point: 15.142 units
 
 geoms_tmp_6.geojson, 15.142 units, "Road"
 ```
+
 ![Output](tmp_6_output.png)
 
 ```bash
@@ -83,6 +88,7 @@ Distance to the closest road from the anchor point: 9.296 units
 
 geoms_tmp_7.geojson, 9.296 units, "Road"
 ```
+
 ![Output](tmp_7_output.png)
 
 ```bash
@@ -94,6 +100,7 @@ Distance to the closest road from the anchor point: 0.0 units
 
 geoms_tmp_8.geojson, 0.0 units, "Road"
 ```
+
 ![Output](tmp_8_output.png)
 
 ```bash
@@ -106,5 +113,5 @@ Distance to the closest road from the front side: 19.656 units
 
 geoms_tmp_9.geojson, 19.656 units, "Road"
 ```
-![Output](tmp_9_output.png)
 
+![Output](tmp_9_output.png)

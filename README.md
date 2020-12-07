@@ -2,7 +2,7 @@
 
 Spatial Data Science | GIS & Remote Sensing | Machine Learning | Space Sciences
 
-[GMail](mailto:nikhil.hubballi@gmail.com) | [LinkedIn](https://in.linkedin.com/in/nikhilhubballi) | [Resume](https://nsh-764.github.io/Docs/CV_Nikhil_S_Hubballi_Jan_2020.pdf) | [Github](https://www.github.com/nsh-764)
+[GMail](mailto:nikhil.hubballi@gmail.com) | [LinkedIn](https://in.linkedin.com/in/nikhilhubballi) | [Resume](https://samashti.github.io/Docs/CV_Nikhil_S_Hubballi_Jan_2020.pdf) | [Github](https://www.github.com/samashti)
 
 ___________________________________________________________________________
 
@@ -28,7 +28,7 @@ How are insight-packs built? [Affluence index at building level](https://drive.g
 
     (Examples: Demography - population count for villages in 2019, [High Rise Buildings](https://grid.atlan.com/insights/high-rise-buildings/), Nightlights, [Lit Roads](https://grid.atlan.com/insights/lit-roads/), Demography - Age gender profile, Railway Insights, Road Network, [Rural Sentiment Index](https://grid.atlan.com/insights/rural-sentiment-index/), [Temperature](https://grid.atlan.com/insights/temperature-insights/) and [Rainfall](https://grid.atlan.com/insights/rainfall-insights/) Insights)
 
-* I also built an internal cloud data access tool called [cloudDS](https://nsh-764.github.io/works/cloud_m.html) that was built on Apache Libcloud and awscli.
+* I also built an internal cloud data access tool called [cloudDS](https://samashti.github.io/works/cloud_m.html) that was built on Apache Libcloud and awscli.
 
 
 **Demo of insight-pack outputs for Bangalore and Gurgaon**
@@ -42,37 +42,37 @@ How are insight-packs built? [Affluence index at building level](https://drive.g
 ___________________________________________________________________________
 #### Other personal projects
 
-* [GeoPackagePy](https://github.com/nsh-764/GeoPackage-py) - a python wrapper module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
+* [GeoPackagePy](https://github.com/samashti/GeoPackage-py) - a python wrapper module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
 
-* [ns3](https://github.com/nsh-764/ns3) - Nested S3 - Display the objects on S3 bucket path in a tree-like diagram, It uses the tree command to display the objects in an s3 bucketpath in a tree-like diagram.
+* [ns3](https://github.com/samashti/ns3) - Nested S3 - Display the objects on S3 bucket path in a tree-like diagram, It uses the tree command to display the objects in an s3 bucketpath in a tree-like diagram.
 
-* [JenksGTiff](https://github.com/nsh-764/JenksGTiff) - Apply Jenks Natural Breaks on Geotiff files and get output image with graduated symbology.
+* [JenksGTiff](https://github.com/samashti/JenksGTiff) - Apply Jenks Natural Breaks on Geotiff files and get output image with graduated symbology.
 
-* [stitchImages](https://github.com/nsh-764/stitchImages) - Stitch two images by identifying common features at the common boundary.
+* [stitchImages](https://github.com/samashti/stitchImages) - Stitch two images by identifying common features at the common boundary.
 
-* [PolyExtract](https://github.com/nsh-764/PolyExtract) - Extract Polygons from an image that contain shapes such as agriculture fields and find their area.
+* [PolyExtract](https://github.com/samashti/PolyExtract) - Extract Polygons from an image that contain shapes such as agriculture fields and find their area.
 
 
 ___________________________________________________________________________
 ### **Academics**
 
-* Tracking accuracy of 3.6m Telescope at Devasthal and Temperature & Optical depth map of star forming molecular clouds using Planck Satellite Data. [TempPlot_vFinal](https://github.com/nsh-764/TempPlot_vFinal)
+* Tracking accuracy of 3.6m Telescope at Devasthal and Temperature & Optical depth map of star forming molecular clouds using Planck Satellite Data. [TempPlot_vFinal](https://github.com/samashti/TempPlot_vFinal)
 
-    [Report](https://github.com/nsh-764/TempPlot_vFinal/blob/master/Docs/final_report.pdf) | [Presentation](https://github.com/nsh-764/TempPlot_vFinal/blob/master/Docs/presentation.pdf)
+    [Report](https://github.com/samashti/TempPlot_vFinal/blob/master/Docs/final_report.pdf) | [Presentation](https://github.com/samashti/TempPlot_vFinal/blob/master/Docs/presentation.pdf)
     
     Summer internship project at Aryabhatta Research Institute of Observational Sciences, Nainital, India 
     
     Guide: Dr. Maheswar Gopinathan -- June, July 2016
 
-* Minutiae-based Fingerprint Matching [MinutiaeFingerprintMatch](https://github.com/nsh-764/MinutiaeFingerprintMatch)
+* Minutiae-based Fingerprint Matching [MinutiaeFingerprintMatch](https://github.com/samashti/MinutiaeFingerprintMatch)
   
-   [Report](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Report.pdf) | [Presentation](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Final%20Presentation.pdf) | [Results - Test set](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Results%20on%20Testset.pdf)
+   [Report](https://github.com/samashti/MinutiaeFingerprintMatch/blob/master/Docs/Report.pdf) | [Presentation](https://github.com/samashti/MinutiaeFingerprintMatch/blob/master/Docs/Final%20Presentation.pdf) | [Results - Test set](https://github.com/samashti/MinutiaeFingerprintMatch/blob/master/Docs/Results%20on%20Testset.pdf)
 
     Academic Project, Indian Institute of Space Science and Technology, Trivandrum, India
     
     Guide: Gorthi R.K.S.S. Manyam -- Apr 2016
 
-* Site Suitability Analysis for Solar PV Power Plant in the northeastern Districts of Karnataka State [Report](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project.pdf) | [Presentation](https://nsh-764.github.io/Docs/Nikhil_PS2013_Final_year_project_presentation.pdf)
+* Site Suitability Analysis for Solar PV Power Plant in the northeastern Districts of Karnataka State [Report](https://samashti.github.io/Docs/Nikhil_PS2013_Final_year_project.pdf) | [Presentation](https://samashti.github.io/Docs/Nikhil_PS2013_Final_year_project_presentation.pdf)
   
     Final Year Project - Indian Institute of Space Science and Technology, Trivandrum, India
     
