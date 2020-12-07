@@ -8,7 +8,7 @@ verified by          :
 verified on          :
 description          : Find the distance from the front side of the shop to 
                         the nearest road/building in the same direction.
-project              : CV Task - Kawa Space
+project              : CV Distance Task
 working directory(s) : 
 remarks              :
 """
