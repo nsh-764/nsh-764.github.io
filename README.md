@@ -66,7 +66,7 @@ I also helped several of our clients from FMCG, CBFC, and Startups with various 
 
 How are insight-packs built? [Affluence index at building level](https://drive.google.com/open?id=0Bw2onH2foCdMN2duMkQxY3Utc2xmU0J4Q0JOaEllQjFmTk1R)
 
-- I also built an internal cloud data access tool called _[cloudDS]_(https://samashti.github.io/works/cloud_m.html) that was built on Apache Libcloud and awscli.
+- I also built an internal cloud data access tool called [cloudDS](https://samashti.github.io/works/cloud_m.html) that was built on Apache Libcloud and awscli.
 
 **NOTE**: Some links from Atlan might be no longer active as the company switched from DS to product based service.
 
