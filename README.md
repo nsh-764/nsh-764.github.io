@@ -110,15 +110,17 @@ At PwC, I have worked on several geospatial analysis and python automation proje
 
 - An automation project to help our internal Financial Markets team in their audit tasks and processes by automating manual tie-outs and reducing almost 300 hours of manual hours for each person in a year.
 
-- In another automation project, I helped build an automation to help our FM team to generate audit reports and manual formulations on MS Excel to reduce on an average 600 hours of manula hours for each person in a year.
+- In another automation project, I helped build an automation to help our FM team to generate audit reports and manual formulations on MS Excel to reduce on an average 600 hours of manual hours for each person in a year.
 
 ---
 
 ### Other personal projects
 
-- [GeoPackagePy](https://github.com/samashti/GeoPackage-py) - a python wrapper module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
+- [GPAL](https://github.com/samashti/gpal) - a python wrapper module built on top of pandas and geopandas to handle geopackge vector files at more basic level using sql-queries. (To be added soon - spatial views, handle both spatial and non-spatial layers in a geopackage and maintain a file-meta)
 
 - [ns3](https://github.com/samashti/ns3) - Nested S3 - Display the objects on S3 bucket path in a tree-like diagram, It uses the tree command to display the objects in an s3 bucketpath in a tree-like diagram.
+
+- [KGIS](https://github.com/samashti/KGIS) - Public Spatial Data from Karnataka Geographic Information System - ಕರ್ನಾಟಕ ಭೌಗೋಳಿಕ ಮಾಹಿತಿ ವ್ಯವಸ್ಥೆ. This project is used to download the spatial data shapefiles from the KGIS portal and convert them to cleaned, combined and zipped geopackage files.
 
 - [JenksGTiff](https://github.com/samashti/JenksGTiff) - Apply Jenks Natural Breaks on Geotiff files and get output image with graduated symbology.
 
